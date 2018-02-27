@@ -1,0 +1,1 @@
+oc new-app --template oshinko-java-spark-build-dc -p APPLICATION_NAME=sparkpi  -p GIT_URI=https://github.com/radanalyticsio/tutorial-sparkpi-java-spring -p APP_FILE=SparkPiBoot-0.0.1-SNAPSHOT.jar
